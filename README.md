@@ -11,7 +11,7 @@ Informe web interactivo en un único HTML autocontenido — sin build, sin depen
 
 ## Uso
 
-Abrir `dubbu-ai-audit-dibarret.html` en cualquier navegador moderno. El archivo trae todo embebido (Chart.js y Google Fonts vía CDN).
+Abrir `index.html` en cualquier navegador moderno. El archivo trae todo embebido (Chart.js y Google Fonts vía CDN).
 
 Controles en el sidebar:
 
